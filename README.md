@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahendra-Trivedi
+- 👋 Hi, I’m @Mahendra Trivedi
 - 👨‍💻 I'm, currently working on web APIs and microservices for a SaaS application.
 - 👀 I’m interested in providing technical support to employees, team members, and customers.
 - 🌱 I’m currently learning new technologies.
